@@ -11,7 +11,7 @@ To use this project, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/MahmoodElbadri/Unit-Test-ASP.NET.git
+   git clone https://github.com/MahmoodElbadri/CRUD-Unit-tests-using-xunit.git
    ```
 
 2. Navigate to the project directory:
